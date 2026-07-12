@@ -83,37 +83,45 @@ Performed:
 
 ---
 
-##  Results
+## Results
 
-The models were evaluated and compared using multiple evaluation metrics.
+Among all the trained models, **K-Nearest Neighbors (KNN)** achieved the highest accuracy of **100%** on the test dataset.
 
-The best-performing model was selected based on overall classification performance.
+The model also produced excellent Precision, Recall, and F1-Score, making it the best-performing classifier for this project.
 
 ---
 
-##  Project Screenshots
+## 📸 Output Screenshots
 
 ### Pairplot
 
-![Pairplot](images/pairplot.png)
-
----
-
-### Boxplots
-
-![Boxplots](images/boxplots.png)
+![Pairplot](images/Pairplot.png)
 
 ---
 
 ### Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![Correlation Heatmap](images/CH.png)
+
+---
+
+### Boxplots
+
+#### Sepal Features
+
+![Sepal Boxplots](images/Boxplot1.png)
+
+#### Petal Features
+
+![Petal Boxplots](images/Boxplot2.png)
 
 ---
 
 ### Model Comparison
 
-![Comparison](images/comparison.png)
+![Model Comparison](images/AccuracyComparisionTable.png)
+
+---
 
 ---
 
@@ -133,13 +141,6 @@ DataScience-Task1-IrisFlowerClassification
 ```
 
 ---
-
-##  Future Improvements
-
-- Hyperparameter Tuning
-- Cross Validation
-- Model Deployment using Flask/Streamlit
-- Web Interface
 
 ---
 
