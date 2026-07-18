@@ -126,7 +126,7 @@ This project demonstrates the complete machine learning workflow, from data prep
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Biswajit Senapati**
 
